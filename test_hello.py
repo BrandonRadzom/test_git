@@ -4,4 +4,6 @@ print('hello again.')
 
 print('hello hello')
 
-print('Hello from remote.')
+print('hello from local.')
+
+print('hello from remote.')
